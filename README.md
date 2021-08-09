@@ -4,6 +4,8 @@ Large file processing :
 
 I have used python and postgreSQL for this assignment and its working .I tried multiple ways and finally got the lowest time possible .
 
+Script running time between 60 to 70 seconds.
+
 Prerequisites:
 
 1) pip install -r requirements.txt
@@ -12,8 +14,8 @@ Prerequisites:
 
 How to run :
 
-python3 main.py
-provide file path (provide just file name if its on the same path)
+1)python3 main.py
+2)provide file path (provide just file name if its on the same path)
 
 
 Features:
