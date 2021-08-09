@@ -30,3 +30,19 @@ Create a dedicated host or site to upload file so that just they can give link a
 ***
 At advanced stage we can do spark streaming on some path and we can process all the incoming file without triggering the script all the file .
 ***
+
+
+DB details :
+
+products table :
+
+name sku(primary key) description
+
+Aggregate table :
+
+name no_of_products
+
+Points to achieve :
+
+all 5 points done
+
